@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=About%20me&height=300&fontSize=100&textBg=false)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=About%20me&height=150&fontSize=80&textBg=false)
 
 
 ## :closed_book: Skills
