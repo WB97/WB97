@@ -1,4 +1,4 @@
-## 📚 기술 스택
+## :closed_book: skills
 
 #### back-end
 ![Spring Badge](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
