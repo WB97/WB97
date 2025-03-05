@@ -1,4 +1,4 @@
-## :closed_book: skills
+## :closed_book: Skills
 
 #### back-end
 ![Spring Badge](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -10,6 +10,14 @@
 ![mybatis Badge](https://img.shields.io/badge/mybatis-red?style=for-the-badge&logo=mybatis&logoColor=white)
 ![JPA Badge](https://img.shields.io/badge/JPA-beb17d?style=for-the-badge&logo=JPA&logoColor=white)
 <br>
+
+#### front-end
+![HTML5 Badge](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![pug Badge](https://img.shields.io/badge/pug-A86454?style=for-the-badge&logo=pug&logoColor=white)
+![javascript Badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+<br>
+
 #### tools
 ![github Badge](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
 ![swagger Badge](https://img.shields.io/badge/swagger-6DB33F?style=for-the-badge&logo=swagger&logoColor=white)
