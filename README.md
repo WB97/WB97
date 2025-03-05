@@ -1,16 +1,15 @@
-## Hi there 👋
+## 📚 기술 스택
 
-<!--
-**WB97/WB97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### back-end
+![Spring Badge](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![springboot Badge](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![java Badge](https://img.shields.io/badge/java-red?style=for-the-badge&logo=java&logoColor=white)
+![spring-security Badge](https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+<br>
+![mariadb Badge](https://img.shields.io/badge/mariadb-blue?style=for-the-badge&logo=mariadb&logoColor=white)
+![mybatis Badge](https://img.shields.io/badge/mybatis-red?style=for-the-badge&logo=mybatis&logoColor=white)
+![JPA Badge](https://img.shields.io/badge/JPA-beb17d?style=for-the-badge&logo=JPA&logoColor=white)
+<br>
+#### tools
+![github Badge](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
+![swagger Badge](https://img.shields.io/badge/swagger-6DB33F?style=for-the-badge&logo=swagger&logoColor=white)
